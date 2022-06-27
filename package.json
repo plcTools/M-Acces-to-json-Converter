@@ -1,0 +1,15 @@
+{
+  "name": "acces-to-json-converter",
+  "version": "1.0.0",
+  "description": "Convert tables contain of Microsoft access database to json files",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-adodb": "^5.0.3"
+  }
+}
